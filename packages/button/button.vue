@@ -1,6 +1,6 @@
 <template>
   <div class='container'>
-      <button>全局ui按钮</button>
+      <button class="ui button">全局ui按钮</button>
   </div>
 </template>
 
@@ -9,7 +9,7 @@ export default {
     name: 'MyButton',
     data() {
         return {
-            
+
         }
     }
 }

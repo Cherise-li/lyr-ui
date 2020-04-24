@@ -1,4 +1,5 @@
 // 整个组件库的入口文件
+import 'semantic-ui-css/semantic.css'
 import Button from './button/button.vue'
 import HeadLine from './headline/headline.vue'
 
