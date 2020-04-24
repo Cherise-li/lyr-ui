@@ -3,7 +3,6 @@
     <div id="nav">
       <router-link to="/">按钮</router-link> |
       <router-link to="/about">标题</router-link>
-      <my-button></my-button>
       <my-headline></my-headline>
     </div>
     <router-view/>
